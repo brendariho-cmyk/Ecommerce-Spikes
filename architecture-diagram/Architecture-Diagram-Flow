@@ -1,1 +1,14 @@
+Diagram Layout
 
+1. Top Layer:
+   - User
+   - Route through internet to ALB
+
+2. Middle Layer:
+   - VPC
+      -- Public subnet (EC2 instance)
+      -- Private subnet (RDS database)
+
+3. Bottom Layer:
+   - S3 bucket (static asset backup)
+   - CloudWatch monitoring
