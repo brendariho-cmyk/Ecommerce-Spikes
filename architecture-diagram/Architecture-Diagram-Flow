@@ -10,5 +10,5 @@ Diagram Layout
       -- Private subnet (RDS database)
 
 3. Bottom Layer:
-   - S3 bucket (static asset backup)
+   - RDS PostgreSQL
    - CloudWatch monitoring
