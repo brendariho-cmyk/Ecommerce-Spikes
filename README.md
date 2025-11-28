@@ -246,7 +246,7 @@ To evolve this into a production-grade system:
 ## **14. Contact**
 
 **Author:** Brenda Ariho
-**GitHub:** *add your link here*
+**GitHub:** *brendaariho-cmyk*
 **Email:** [brenda.ariho.d@gmail.com](mailto:brenda.ariho.d@gmail.com)
 
 ---
