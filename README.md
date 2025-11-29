@@ -21,8 +21,6 @@ This project implements a **scalable multi-tier web application architecture** o
 
 ## **3. Architecture Diagram**
 
-*(Embed your PNG from your repo folder)*
-
 ```
 ![Architecture Diagram](architecture-diagram/Ecom Architecture.png) 
 ```
