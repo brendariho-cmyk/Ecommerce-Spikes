@@ -25,6 +25,10 @@ This project implements a **scalable multi-tier web application architecture** o
 ![Architecture Diagram](architecture-diagram/Ecom Architecture.png) 
 ```
 
+
+![Architecture Diagram](https://github.com/brendariho-cmyk/Ecommerce-Spikes/blob/main/architecture-diagram/Ecom%20Architecture.png)
+
+
 ---
 
 ## **4. Components**
